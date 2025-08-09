@@ -1,4 +1,4 @@
-"# assessment" 
+"# assessment: Developed by Mr.Brijesh.Nishad@HCLTech" 
 ```
 Tutorial Management API
 Overview
